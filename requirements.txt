@@ -1,0 +1,6 @@
+kivy==2.3.0
+mnemonic
+ecdsa
+bip32utils
+requests
+plyer
