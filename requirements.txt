@@ -1,6 +1,8 @@
-kivy==2.3.0
+kivy
 mnemonic
 ecdsa
 bip32utils
 requests
 plyer
+eth-utils
+base58
